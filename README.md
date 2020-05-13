@@ -1,2 +1,2 @@
 # TinDog
-A mock website for an app called TinDog, which matches dogs with one another.
+As part of an online full-stack web development course, I created a mock website for an app called TinDog, which matches dogs with one another.
